@@ -1,10 +1,12 @@
-### Hi there 👋
+### Ohayou - Olá - Hi 👋
 
 😁  Sobre mim
 
-Me chamo William Krisley, sou desenvolvedor front-end e estou sempre em busca de novos conhecimentos.
-Estou focado em me tornar dev full-stack e após isso começarei a estudar web hacking que é minha paixão desde novo.
+Me chamo William Krisley, sou desenvolvedor front-end 💻, sou apaixonado com a área de ciber segurança, atualmente estou fazendo o treinamento pentest da desec e estou cada dia mais apaixonado. 😍😍😍
 
-💌 Entre em contato comigo, através das redes sociais abaixo :
+Estou remodelando minhas redes sociais e principalmente refazendo alguns projetos e planejando outros.
+
+Então por favor não repare a bagunça 😂😊.
+
 
 
