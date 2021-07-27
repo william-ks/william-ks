@@ -1,4 +1,4 @@
-### Ohayou - Olá - Hi 👋
+### おはよう - Olá - Hi 👋
 
 😁  Sobre mim
 
