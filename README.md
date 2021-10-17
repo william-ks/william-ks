@@ -1,4 +1,6 @@
-<h1 align="center">　Hello there </h1>
+### Hello there, I'm William Krisley! 👋🏻👨🏻‍💻
+
+Hi, I'm Will, an programming student passionate about cybersecurity and technology, with an interest in the areas of Ethical Hacker.
 
 ### Github stats
 
