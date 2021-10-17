@@ -1,5 +1,8 @@
 ### おはよう - Olá - Hi 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-ks)](https://github.com/anuraghazra/github-readme-stats)
+
+
 😁  Sobre mim
 
 Me chamo William Krisley, sou desenvolvedor front-end 💻, sou apaixonado com a área de ciber segurança, atualmente estou fazendo o treinamento pentest da desec e estou cada dia mais apaixonado. 😍😍😍
