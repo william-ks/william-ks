@@ -1,6 +1,6 @@
 ### おはよう - Olá - Hi 👋
 
-<h1 align="right">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-ks&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-ks&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 😁  Sobre mim
