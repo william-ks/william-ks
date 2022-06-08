@@ -1,6 +1,6 @@
 ### Hello there, I'm William Krisley! 👋🏻👨🏻‍💻
 
-Hi, I'm Will, an programming student passionate about cybersecurity and technology, with an interest in the areas of Ethical Hacker and front end dev.
+Olá, eu sou Will. Sou Apaixonado por cibersegurança, atualmente estou estudando desenvolvimento full stack da cubos academy e hacking etico na pato academy.
 
 To contact: (31) 98568-0927
 
