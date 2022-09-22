@@ -8,7 +8,7 @@ My name is William, i like so much of web develpment and that's why i start to s
 My true love is web hacking, i love this since when can i remember and i finally started the bes course ever, called 'Do bug ao bounty' promoted by [PatoAcademy](https://pato.academy).
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-krisley/)
+[![linkedin](https://media-exp1.licdn.com/dms/image/C4E0BAQHEhevwiHup0w/company-logo_200_200/0/1650930580857?e=1671667200&v=beta&t=slXPI3O8ZBgssGsE1YTOTFQgt5DUfXt7Ti9q0VErywI)](https://www.linkedin.com/in/william-krisley/)
 
 <h1> <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px">  Hello, let's take a look at my professional life!  <img src="https://www.publicdomainpictures.net/pictures/100000/velka/snake-silhouette.jpg" width="36px"> </h1>
 
