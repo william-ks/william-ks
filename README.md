@@ -8,6 +8,10 @@ My true love is web hacking, i love this since when can i remember and i finally
 
 ## 🛠 Habilidades
 <ul>
-  <li>NodeJs</li> 
+  <li>NodeJs</li>
+  <li>React</li>
+  <li>ApiRestFull</li>
+  <li>Postgres</li>
+  
  </ul>
 
