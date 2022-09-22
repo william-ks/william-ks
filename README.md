@@ -8,11 +8,7 @@ My true love is web hacking, i love this since when can i remember and i finally
 
 ## 🛠 Habilidades
 <ul>
-  <li>NodeJs</li>
-  <li>React</li>
-  <li>ApiRestFull</li>
-  <li>Postgres</li>
-  
+  <li>NodeJs</li> 
+  <li>NodeJs</li> 
  </ul>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-ks)](https://github.com/anuraghazra/github-readme-stats)
