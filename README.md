@@ -11,4 +11,5 @@ My true love is web hacking, i love this since when can i remember and i finally
   <li>NodeJs</li> 
   <li>NodeJs</li> 
  </ul>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-ks)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-ks&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
