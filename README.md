@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHxDpSLW2O6DA/profile-displaybackgroundimage-shrink_200_800/0/1663935812583?e=1669248000&v=beta&t=_3oTkOfSj9p_KrMnwWvg88po_H-5z51tFD6dT4ArJ5c" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHxDpSLW2O6DA/profile-displaybackgroundimage-shrink_200_800/0/1663935812583?e=1669248000&v=beta&t=_3oTkOfSj9p_KrMnwWvg88po_H-5z51tFD6dT4ArJ5c" width="1280px" />
 
 <h1> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHEhevwiHup0w/company-logo_200_200/0/1650930580857?e=1671667200&v=beta&t=slXPI3O8ZBgssGsE1YTOTFQgt5DUfXt7Ti9q0VErywI" width="36px">  Hello, let's take a look at my professional life!  <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHEhevwiHup0w/company-logo_200_200/0/1650930580857?e=1671667200&v=beta&t=slXPI3O8ZBgssGsE1YTOTFQgt5DUfXt7Ti9q0VErywI" width="36px"> </h1>
 
