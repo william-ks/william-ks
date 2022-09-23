@@ -4,7 +4,7 @@
 
 My name is William, i like so much of web develpment and that's why i start to study in [Cubos academy](https://cubos.academy), i started in 03/2022 and i'll graduate in 11/2022. I like Japan⛩️ and japanese foods 🍙 mainly <b>おにぎり</b> (onigiri), I have a dream to travel the world and getting to know the most diverse cultures. And last but not least I'm a Christian✝️
 
-My true love is web hacking, i love this since when can i remember and i finally started the bes course ever, called 'Do bug ao bounty' promoted by [PatoAcademy](https://pato.academy). One day i want to find a bug in NASA!
+My true love is web hacking, i love this since when can i remember and i finally started the best course ever, called 'Do bug ao bounty' promoted by [PatoAcademy](https://pato.academy). One day i want to find a bug in NASA!
 
 ## 🛠 My skills
 
