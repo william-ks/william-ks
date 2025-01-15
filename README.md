@@ -2,7 +2,7 @@
 
 I'm a passionate Full-Stack Developer with experience in web development and a keen interest in cybersecurity. I'm currently studying at [Cubos Academy](https://cubos.academy) and have a deep love for web hacking.
 
-- **Languages & Frameworks**: Node.js, Express.js, Vue.js, React, Typescript 
+- **Languages & Frameworks**: Node.js, Express.js, Fastify.js, Nuxt.js, React, Typescript 
 - **Current Focus**: Completing the 'Do Bug ao Bounty' course at [Pato Academy](https://pato.academy).
 - **Goal**: To contribute to open-source projects and find vulnerabilities in high-profile applications.
 
